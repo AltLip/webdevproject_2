@@ -1,0 +1,20 @@
+
+
+
+
+#navtable {
+  display: flex;
+  justify-content: center;
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 70px;
+  box-shadow: 2px 6px 10px;
+  font-size: 2em;
+  font-family: "Georgia", cursive;
+  opacity: 0.8;
+}
+
+#navtable th {
+  padding-left: 20px;
+  padding: 30px;
+}
