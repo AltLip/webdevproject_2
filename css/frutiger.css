@@ -69,16 +69,11 @@ p {
 }
 
 .img-w {
-  width: 1200;
-  height: 1200;
+  width: 1200px;
+  height: 1200px;
   border: 2px white;
 }
 .videoframe {
-	width: 1920;
-	height: 1080;
-}
-
-li span {
-	position: relative;
-	left: -100px;
+	width: 960px;
+	height: 540px;
 }
