@@ -33,9 +33,30 @@ body {
   opacity: 0.8;
 }
 
-#intro p {
+p {
   margin-left: 20%;
   margin-right: 20%;
   font-family: 'Roboto', sans-serif;
   font-size: 1em;
+}
+
+#porch {
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 10px 10px 10px;
+}
+
+#kalhaven {
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 10px 10px 10px;
+}
+
+#miscellaneous {
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 10px 10px 10px;
 }
