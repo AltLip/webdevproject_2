@@ -60,3 +60,21 @@ p {
   border-radius: 100px;
   box-shadow: 10px 10px 10px;
 }
+
+.img-large {
+  width: 1200px ;
+  height: 676px ;
+  border: 2px white;
+}
+
+.img-small {
+  width: 800px ;
+  height: 600px ;
+  border: 2px white;
+}
+
+.img-portrait {
+  width: 600px ;
+  height: 800px ;
+  border: 2px white;
+}
