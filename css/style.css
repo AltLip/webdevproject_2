@@ -7,3 +7,83 @@ body {
   margin-right: center;
   text-align: center;
 }
+
+#navtable {
+  display: flex;
+  justify-content: center;
+  background-color: sandybrown;
+  padding: 15px;
+  border-radius: 70px;
+  box-shadow: 2px 6px 10px;
+  font-size: 2em;
+  font-family: "Georgia", cursive;
+}
+
+#navtable th {
+  padding-left: 20px;
+  padding: 30px;
+}
+
+#education {
+  display: flex;
+  justify-content: center;
+  background-color: sandybrown;
+  padding: 30px;
+  border-radius: 70px;
+  box-shadow: 0px 4px 8px;
+  font-size: 1em;
+  font-family: "Georgia", cursive;
+}
+
+#education div {
+  position: relative;
+  left: 100px;
+}
+
+#volunteer {
+  display: flex;
+  justify-content: center;
+  background-color: sandybrown;
+  padding: 15px;
+  border-radius: 70px;
+  box-shadow: 0px 4px 8px;
+  font-size: 1em;
+  font-family: "Georgia", cursive;
+}
+
+#volunteer div {
+  position: relative;
+  left: -100px;
+}
+
+#activities {
+  display: flex;
+  justify-content: center;
+  background-color: sandybrown;
+  padding: 15px;
+  border-radius: 70px;
+  box-shadow: 0px 4px 8px;
+  font-size: 1em;
+  font-family: "Georgia", cursive;
+}
+
+#activities div {
+  position: relative;
+  left: -100px;
+}
+
+#personal {
+  display: flex;
+  justify-content: center;
+  background-color: sandybrown;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 0px 4px 8px;
+  font-size: 1em;
+  font-family: "Georgia", cursive;
+}
+
+#personal div {
+  position: relative;
+  left: -100px;
+}
