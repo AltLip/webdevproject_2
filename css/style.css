@@ -1,8 +1,9 @@
 body {
-  background-image: url(".../images/wood.jpeg");
-  background-position: center;
+  background-color: burlywood;
 }
+
 .center {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: center;
+  margin-right: center;
+  text-align: center;
 }
