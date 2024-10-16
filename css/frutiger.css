@@ -1,4 +1,7 @@
-
+body {
+	background-image: url("../images/frutigerbackground.jpeg");
+	color: white;
+}
 
 .center {
   text-align: center;
@@ -7,42 +10,50 @@
 #navtable {
   display: flex;
   justify-content: center;
-  background-color: lightgrey;
+  background-color: #b8decc;
   padding: 15px;
   border-radius: 70px;
   box-shadow: 2px 6px 10px;
   font-size: 2em;
   font-family: "Georgia", cursive;
-  opacity: 0.8;
+  color: black;
 }
 
 #navtable th {
   padding-left: 20px;
   padding: 30px;
+  color: black;
 }
 
 #introduction div {
-  background-color: lightgrey;
+  background-color: #b8decc;
   padding: 15px;
   border-radius: 100px;
   box-shadow: 2px 6px 10px;
-  opacity: 0.8;
+  color: black;
 }
 
 #skeuomorphism div {
-  background-color: lightgrey;
+  background-color: #b8decc;
   padding: 15px;
   border-radius: 100px;
   box-shadow: 2px 6px 10px;
-  opacity: 0.8;
+  color: black;
 }
 
 #popularity div {
-  background-color: lightgrey;
+  background-color: #b8decc;
   padding: 15px;
   border-radius: 100px;
   box-shadow: 2px 6px 10px;
-  opacity: 0.8;
+  color: black;
+}
+
+p {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
 }
 
 .img-f {
@@ -65,4 +76,9 @@
 .videoframe {
 	width: 1920;
 	height: 1080;
+}
+
+li span {
+	position: relative;
+	left: -100px;
 }
