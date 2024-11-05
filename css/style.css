@@ -1,26 +1,60 @@
-body {
+#resumebody {
   background-color: burlywood;
 }
+
+#michiganbody {
+  background-color: #b7f7f4;
+}
+
+#frutigerbody {
+  background-image: url("../images/frutigerbackground.jpeg");
+  color: white;
+}
+
 
 .center {
   text-align: center;
 }
 
-#navtable {
-  display: flex;
-  justify-content: center;
-  background-color: sandybrown;
-  padding: 15px;
-  border-radius: 70px;
-  box-shadow: 2px 6px 10px;
-  font-size: 2em;
-  font-family: "Georgia", cursive;
+#title {
+  background-color: blue;
+  color: white;
+  padding: 10px 0; 
+  text-align: center;
 }
 
-#navtable th {
-  padding-left: 20px;
-  padding: 30px;
+#navigation {
+  background-color: #333; 
+  width: 100%;
+  text-align: center; 
+  position: relative; 
+  z-index: 100; 
 }
+
+#navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block; 
+}
+
+#navigation ul li {
+  display: inline; 
+}
+
+#navigation ul li a {
+  padding: 10px 20px; 
+  color: white; 
+  text-decoration: none;
+}
+
+#navigation ul li a:hover {
+  background-color: #ccc; 
+  color: #333; 
+}
+
+
+
 
 #education {
   display: flex;
@@ -84,4 +118,115 @@ body {
 #personal div {
   position: relative;
   left: 110px;
+}
+
+
+
+
+
+
+
+
+#introduction div {
+  background-color: #b8decc;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 2px 6px 10px;
+  color: black;
+}
+
+#skeuomorphism div {
+  background-color: #b8decc;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 2px 6px 10px;
+  color: black;
+}
+
+#popularity div {
+  background-color: #b8decc;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 2px 6px 10px;
+  color: black;
+}
+
+p {
+  margin-left: 20%;
+  margin-right: 20%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+}
+
+.img-f {
+  width: 1280px;
+  height: 960px;
+  border: 2px white;
+}
+
+.img-c {
+  width: 1200px;
+  height: 676px;
+  border: 2px white;
+}
+
+.img-w {
+  width: 1200px;
+  height: 1200px;
+  border: 2px white;
+}
+.videoframe {
+  width: 960px;
+  height: 540px;
+}
+
+
+
+
+
+#intro div {
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 2px 6px 10px;
+  opacity: 0.8;
+}
+
+#porch {
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 10px 10px 10px;
+}
+
+#kalhaven {
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 10px 10px 10px;
+}
+
+#miscellaneous {
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 100px;
+  box-shadow: 10px 10px 10px;
+}
+
+.img-large {
+  width: 1200px ;
+  height: 676px ;
+  border: 2px white;
+}
+
+.img-small {
+  width: 800px ;
+  height: 600px ;
+  border: 2px white;
+}
+
+.img-portrait {
+  width: 600px ;
+  height: 800px ;
+  border: 2px white;
 }
