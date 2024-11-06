@@ -3,7 +3,7 @@
 }
 
 #michiganbody {
-  background-color: #b7f7f4;
+  background-color: #6f827c;
 }
 
 #frutigerbody {
@@ -17,14 +17,14 @@
 }
 
 #title {
-  background-color: blue;
-  color: white;
+  background-color: #D3D3D3;
+  color: black;
   padding: 10px 0; 
   text-align: center;
 }
 
 #navigation {
-  background-color: #333; 
+  background-color: #D3D3D3; 
   width: 100%;
   text-align: center; 
   position: relative; 
@@ -44,17 +44,20 @@
 
 #navigation ul li a {
   padding: 10px 20px; 
-  color: white; 
+  color: black; 
   text-decoration: none;
 }
 
 #navigation ul li a:hover {
-  background-color: #ccc; 
-  color: #333; 
+  background-color: #D3D3D3; 
+  color: black; 
 }
 
 
 
+#resumeintro {
+  color: white;
+}
 
 #education {
   display: flex;
@@ -126,7 +129,6 @@
 
 
 
-
 #introduction div {
   background-color: #b8decc;
   padding: 15px;
@@ -159,25 +161,25 @@ p {
 }
 
 .img-f {
-  width: 1280px;
-  height: 960px;
+  width: 960px;
+  height: 720px;
   border: 2px white;
 }
 
 .img-c {
-  width: 1200px;
-  height: 676px;
+  width: 800px;
+  height: 507px;
   border: 2px white;
 }
 
 .img-w {
-  width: 1200px;
-  height: 1200px;
+  width: 600px;
+  height: 600px;
   border: 2px white;
 }
 .videoframe {
-  width: 960px;
-  height: 540px;
+  width: 720px;
+  height: 405px;
 }
 
 
@@ -190,6 +192,10 @@ p {
   border-radius: 100px;
   box-shadow: 2px 6px 10px;
   opacity: 0.8;
+}
+
+#intro h1 {
+  color: white;
 }
 
 #porch {
@@ -214,19 +220,19 @@ p {
 }
 
 .img-large {
-  width: 1200px ;
-  height: 676px ;
+  width: 900px ;
+  height: 507px ;
   border: 2px white;
 }
 
 .img-small {
-  width: 800px ;
-  height: 600px ;
+  width: 600px ;
+  height: 450px ;
   border: 2px white;
 }
 
 .img-portrait {
-  width: 600px ;
-  height: 800px ;
+  width: 450px ;
+  height: 600px ;
   border: 2px white;
 }
