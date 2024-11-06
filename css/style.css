@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Devonshire&display=swap');
+
 #resumebody {
   background-color: burlywood;
 }
@@ -9,8 +11,8 @@
 #frutigerbody {
   background-image: url("../images/frutigerbackground.jpeg");
   color: white;
+  font-family: "frutiger", "arial";
 }
-
 
 .center {
   text-align: center;
@@ -53,8 +55,6 @@
   color: black; 
 }
 
-
-
 #resumeintro {
   color: white;
 }
@@ -67,7 +67,7 @@
   border-radius: 70px;
   box-shadow: 0px 4px 8px;
   font-size: 1em;
-  font-family: "Georgia", cursive;
+  font-family: "Georgia", "arial";
   margin-bottom:50px;
   padding-bottom:10px;
   margin-left: 250px;
@@ -88,7 +88,7 @@
   border-radius: 70px;
   box-shadow: 0px 4px 8px;
   font-size: 1em;
-  font-family: "Georgia", cursive;
+  font-family: "Georgia", "arial";
   margin-bottom:50px;
   padding-bottom:10px;
   margin-left: 250px;
@@ -109,7 +109,7 @@
   border-radius: 70px;
   box-shadow: 0px 4px 8px;
   font-size: 1em;
-  font-family: "Georgia", cursive;
+  font-family: "Georgia", "arial";
   margin-bottom:50px;
   padding-bottom:10px;
   margin-left: 250px;
@@ -130,7 +130,7 @@
   border-radius: 100px;
   box-shadow: 0px 4px 8px;
   font-size: 1em;
-  font-family: "Georgia", cursive;
+  font-family: "Georgia", "arial";
   margin-bottom:50px;
   padding-bottom:10px;
   margin-left: 250px;
@@ -141,14 +141,6 @@
 #personal div {
   position: relative;
   left: 110px;
-}
-
-
-
-
-
-#frutigermain {
-  
 }
 
 #introduction div {
@@ -193,7 +185,7 @@
 p {
   margin-left: 20%;
   margin-right: 20%;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", "arial";
   font-size: 1em;
 }
 
@@ -215,10 +207,6 @@ p {
   border: 8px solid white;
 }
 
-
-
-
-
 #intro div {
   background-color: lightgrey;
   padding: 5px;
@@ -234,6 +222,7 @@ p {
 
 #intro h1 {
   color: white;
+  font-family: "Devonshire", "arial";
 }
 
 #porch {
