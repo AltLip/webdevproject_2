@@ -68,6 +68,11 @@
   box-shadow: 0px 4px 8px;
   font-size: 1em;
   font-family: "Georgia", cursive;
+  margin-bottom:50px;
+  padding-bottom:10px;
+  margin-left: 250px;
+  margin-right: 250px;
+  border: 8px solid #7d7f7c
 }
 
 #education div {
@@ -84,6 +89,11 @@
   box-shadow: 0px 4px 8px;
   font-size: 1em;
   font-family: "Georgia", cursive;
+  margin-bottom:50px;
+  padding-bottom:10px;
+  margin-left: 250px;
+  margin-right: 250px;
+  border: 8px solid #7d7f7c
 }
 
 #volunteer div {
@@ -100,6 +110,11 @@
   box-shadow: 0px 4px 8px;
   font-size: 1em;
   font-family: "Georgia", cursive;
+  margin-bottom:50px;
+  padding-bottom:10px;
+  margin-left: 250px;
+  margin-right: 250px;
+  border: 8px solid #7d7f7c
 }
 
 #activities div {
@@ -116,6 +131,11 @@
   box-shadow: 0px 4px 8px;
   font-size: 1em;
   font-family: "Georgia", cursive;
+  margin-bottom:50px;
+  padding-bottom:10px;
+  margin-left: 250px;
+  margin-right: 250px;
+  border: 8px solid #7d7f7c
 }
 
 #personal div {
@@ -127,7 +147,9 @@
 
 
 
-
+#frutigermain {
+  
+}
 
 #introduction div {
   background-color: #b8decc;
@@ -135,6 +157,11 @@
   border-radius: 100px;
   box-shadow: 2px 6px 10px;
   color: black;
+  margin-bottom:50px;
+  padding-bottom:10px;
+  margin-left: 275px;
+  margin-right: 275px;
+  border: 8px solid black;
 }
 
 #skeuomorphism div {
@@ -143,6 +170,11 @@
   border-radius: 100px;
   box-shadow: 2px 6px 10px;
   color: black;
+  margin-bottom:50px;
+  padding-bottom:10px;
+  margin-left: 275px;
+  margin-right: 275px;
+  border: 8px solid black;
 }
 
 #popularity div {
@@ -151,6 +183,11 @@
   border-radius: 100px;
   box-shadow: 2px 6px 10px;
   color: black;
+  margin-bottom:50px;
+  padding-bottom:10px;
+  margin-left: 275px;
+  margin-right: 275px;
+  border: 8px solid black;
 }
 
 p {
@@ -161,25 +198,21 @@ p {
 }
 
 .img-f {
-  width: 960px;
-  height: 720px;
-  border: 2px white;
+  width: 576px;
+  height: 432px;
+  border: 8px solid #7d7f7c;
 }
 
 .img-c {
-  width: 800px;
-  height: 507px;
-  border: 2px white;
+  width: 480px;
+  height: 304px;
+  border: 8px solid #7d7f7c;
 }
 
-.img-w {
-  width: 600px;
-  height: 600px;
-  border: 2px white;
-}
 .videoframe {
   width: 720px;
   height: 405px;
+  border: 8px solid white;
 }
 
 
@@ -188,10 +221,15 @@ p {
 
 #intro div {
   background-color: lightgrey;
-  padding: 15px;
+  padding: 5px;
   border-radius: 100px;
   box-shadow: 2px 6px 10px;
   opacity: 0.8;
+  margin-bottom:50px;
+  padding-bottom:10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border: 8px solid #7d7f7c;
 }
 
 #intro h1 {
@@ -201,8 +239,13 @@ p {
 #porch {
   background-color: lightgrey;
   padding: 15px;
-  border-radius: 100px;
+  border-radius: 50px;
   box-shadow: 10px 10px 10px;
+  margin-bottom:50px;
+  padding-bottom:10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border: 8px solid #7d7f7c;
 }
 
 #kalhaven {
@@ -210,6 +253,11 @@ p {
   padding: 15px;
   border-radius: 100px;
   box-shadow: 10px 10px 10px;
+  margin-bottom:50px;
+  padding-bottom:10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border: 8px solid #7d7f7c;
 }
 
 #miscellaneous {
@@ -217,22 +265,27 @@ p {
   padding: 15px;
   border-radius: 100px;
   box-shadow: 10px 10px 10px;
+  margin-bottom:50px;
+  padding-bottom:10px;
+  margin-left: 200px;
+  margin-right: 200px;
+  border: 8px solid #7d7f7c;
 }
 
 .img-large {
   width: 900px ;
   height: 507px ;
-  border: 2px white;
+  border: 8px solid #7d7f7c;
 }
 
 .img-small {
   width: 600px ;
   height: 450px ;
-  border: 2px white;
+  border: 8px solid #7d7f7c;
 }
 
 .img-portrait {
   width: 450px ;
   height: 600px ;
-  border: 2px white;
+  border: 8px solid #7d7f7c;
 }
